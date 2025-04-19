@@ -1,0 +1,25 @@
+@import url('https://fonts.google.com/share?selection.family=Pacifico')
+
+body {
+    max-width: 390px;
+    font-family: 'Pacifico'; /*, sans-serif; */
+}
+h1 {
+    color: #33e9ff;
+    font-size: 72px;
+    text-align: center;
+    font-family: 'Pacifico', sans-serif;
+
+}
+p {
+    color: red;
+}
+h5 {
+    color: #33e9ff;
+    text-align: left;
+    background: #788081;
+}
+
+img {
+    width: 300px;
+}
